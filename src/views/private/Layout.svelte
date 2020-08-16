@@ -8,7 +8,7 @@
     console.log({currentRoute})
   </script>
    
-   <Nav />
+    <Nav />
   <div class="main">
     <h1>Private Layout</h1>
     <Route {currentRoute} {params} />
