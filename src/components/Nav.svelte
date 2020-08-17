@@ -21,6 +21,15 @@
         <li class="nav-item">
           <Navigate styles="nav-link" to="/posts">Posts</Navigate>
         </li>
+        <li class="nav-item">
+          <Navigate styles="nav-link" to="/posts/new">New Post</Navigate>
+        </li>
+        <li class="nav-item">
+          <Navigate styles="nav-link" to="/posts/2/edit">Edit Post</Navigate>
+        </li>
+        <li class="nav-item">
+          <Navigate styles="nav-link" to="/posts/show/2">Show Post</Navigate>
+        </li>
       </ul>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
